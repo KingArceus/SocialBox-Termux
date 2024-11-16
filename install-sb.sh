@@ -60,6 +60,6 @@ figlet done
 cd ..
 
 # facebook2
-git clone https://github.com/fikrado/fikrado.py
-cd fikrado.py
-bash termux.sh >> /dev/null
+# git clone https://github.com/fikrado/fikrado.py
+# cd fikrado.py
+# bash termux.sh >> /dev/null
